@@ -1,0 +1,110 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sibluanis@gmail.com" resolutions="1x" timestamp="1495741919562">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="369908013" ref="gallery:services:index:about-us:contact-us"/>
+    <file name="gallery.css" crc="44689504" ref="gallery"/>
+    <file name="services.css" crc="508403136" ref="services"/>
+    <file name="index.css" crc="3991886099" ref="index"/>
+    <file name="about-us.css" crc="58541579" ref="about-us"/>
+    <file name="contact-us.css" crc="202434208" ref="contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:phone>gallery:phone>services:phone>about-us:phone>contact-us:tablet>index:tablet>gallery:tablet>services:tablet>about-us:tablet>contact-us:index:gallery:services:about-us:contact-us"/>
+    <file name="museutils.js" crc="3790713428" ref="phone>index:phone>gallery:phone>services:phone>about-us:phone>contact-us:tablet>index:tablet>gallery:tablet>services:tablet>about-us:tablet>contact-us:index:gallery:services:about-us:contact-us"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>gallery:phone>services:phone>about-us:phone>contact-us:tablet>index:tablet>gallery:tablet>services:tablet>about-us:tablet>contact-us:index:gallery:services:about-us:contact-us"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="phone>index:phone>gallery:phone>services:phone>about-us:phone>contact-us:tablet>index:tablet>gallery:tablet>services:tablet>about-us:tablet>contact-us:index:gallery:services:about-us:contact-us"/>
+    <file name="museredirect.js" crc="71780213" ref="tablet>index:tablet>gallery:tablet>services:tablet>about-us:tablet>contact-us"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:gallery:services:about-us:contact-us"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index:gallery:services:contact-us"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:gallery"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:gallery"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:gallery"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:gallery:services:about-us:contact-us"/>
+    <file name="form_check.php" crc="3805695515" ref="services:contact-us"/>
+    <file name="form_throttle.php" crc="3802629389" ref="services:contact-us"/>
+    <file name="form_process.php" crc="54267062" ref="services:contact-us"/>
+    <file name="form-u1921.php" crc="4095217741" ref="services"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="about-us:contact-us"/>
+    <file name="form-u754.php" crc="4056672376" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="citrus-logo-2d278x129.png" crc="3960642880" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:gallery"/>
+    <file name="back-1.jpg" crc="3799520414" seo="true" ref="index"/>
+    <file name="back-2.jpg" crc="3890593461" seo="true" ref="index"/>
+    <file name="back-3.jpg" crc="129795937" seo="true" ref="index"/>
+    <file name="9aff2efca7e7fc907e325cfed0365107.jpg" crc="451990109" seo="true" ref="index"/>
+    <file name="cute_stylish_child_girl-wallpaper-960x600.jpg" crc="3778380607" seo="true" ref="index"/>
+    <file name="high-definition-landscape-wallpapers-25.jpg" crc="503652621" seo="true" ref="index"/>
+    <file name="landscape-wallpaper-36.jpg" crc="3885769164" seo="true" ref="index"/>
+    <file name="landscape-wallpapers-15.jpg" crc="4201472476" ref="index:about-us"/>
+    <file name="back-4.jpg" crc="382715921" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:gallery"/>
+    <file name="high-definition-landscape-wallpapers-25-crop-u2006.jpg" crc="4062126651" ref="gallery"/>
+    <file name="landscape-wallpaper-36-crop-u2153.jpg" crc="3831699576" ref="gallery"/>
+    <file name="landscape-wallpapers-15-crop-u2173.jpg" crc="53334684" ref="gallery"/>
+    <file name="9aff2efca7e7fc907e325cfed0365107576x360.jpg" crc="489007000" seo="true" ref="gallery"/>
+    <file name="back-1480x360.jpg" crc="4015363904" seo="true" ref="gallery"/>
+    <file name="back-2541x360.jpg" crc="219456568" seo="true" ref="gallery"/>
+    <file name="back-3-crop-u2253.jpg" crc="4083922543" ref="gallery"/>
+    <file name="back-4541x360.jpg" crc="3960719140" seo="true" ref="gallery"/>
+    <file name="car_logo_png1647.png" crc="517456343" seo="true" ref="gallery"/>
+    <file name="citrus-logo-2d-crop-u2313.png" crc="27426403" ref="gallery"/>
+    <file name="logos_postobon_final-01-crop-u2333.png" crc="200940640" ref="gallery"/>
+    <file name="high-definition-landscape-wallpapers-25-crop-u1998.jpg" crc="3805553280" ref="gallery"/>
+    <file name="landscape-wallpaper-36-crop-u2159.jpg" crc="3956583076" ref="gallery"/>
+    <file name="landscape-wallpapers-15-crop-u2179.jpg" crc="257939650" ref="gallery"/>
+    <file name="9aff2efca7e7fc907e325cfed036510772x45.jpg" crc="366981043" seo="true" ref="gallery"/>
+    <file name="back-160x45.jpg" crc="40390207" seo="true" ref="gallery"/>
+    <file name="back-268x45.jpg" crc="168795173" seo="true" ref="gallery"/>
+    <file name="back-3-crop-u2259.jpg" crc="407088248" ref="gallery"/>
+    <file name="back-468x45.jpg" crc="4039748482" seo="true" ref="gallery"/>
+    <file name="car_logo_png164760x45.png" crc="3955184692" seo="true" ref="gallery"/>
+    <file name="citrus-logo-2d-crop-u2319.png" crc="4194743710" ref="gallery"/>
+    <file name="logos_postobon_final-01-crop-u2339.png" crc="3896055601" ref="gallery"/>
+    <file name="u1932-17.png" crc="311828129" ref="services"/>
+    <file name="u1932-17-r.png" crc="3844863548" ref="services"/>
+    <file name="u1932-17-m.png" crc="446077895" ref="services"/>
+    <file name="u1932-17-fs.png" crc="51175883" ref="services"/>
+    <file name="u762-17.png" crc="311828129" ref="contact-us"/>
+    <file name="u762-17-r.png" crc="3844863548" ref="contact-us"/>
+    <file name="u762-17-m.png" crc="446077895" ref="contact-us"/>
+    <file name="u762-17-fs.png" crc="51175883" ref="contact-us"/>
+    <file name="cute_stylish_child_girl-wallpaper-960x600356x223.jpg" crc="222162685" seo="true" ref="contact-us"/>
+    <file name="twitter1.png" crc="3777029435" ref="contact-us"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="about-us.css" crc="197543295" ref="tablet>about-us"/>
+      <file name="services.css" crc="4144945129" ref="tablet>services"/>
+      <file name="index.css" crc="4144945129" ref="tablet>index"/>
+      <file name="contact-us.css" crc="4144945129" ref="tablet>contact-us"/>
+      <file name="gallery.css" crc="4144945129" ref="tablet>gallery"/>
+    </folder>
+    <file name="index.html" crc="248219208" seo="true" mt="1495739757246" redirect="false"/>
+    <file name="gallery.html" crc="420201663" seo="true" mt="1495739757484" redirect="false"/>
+    <file name="services.html" crc="3769763344" seo="true" mt="1495739757508" redirect="false"/>
+    <file name="about-us.html" crc="264799041" seo="true" mt="1495739757576" redirect="false"/>
+    <file name="contact-us.html" crc="4280881617" seo="true" mt="1495739757636" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="about-us.css" crc="4241877549" ref="phone>about-us"/>
+      <file name="index.css" crc="3996985015" ref="phone>index"/>
+      <file name="contact-us.css" crc="3996985015" ref="phone>contact-us"/>
+      <file name="services.css" crc="3996985015" ref="phone>services"/>
+      <file name="gallery.css" crc="3996985015" ref="phone>gallery"/>
+    </folder>
+    <file name="index.html" crc="3764473744" seo="true" mt="1495739758890" redirect="false"/>
+    <file name="gallery.html" crc="3789252504" seo="true" mt="1495739758891" redirect="false"/>
+    <file name="services.html" crc="521351796" seo="true" mt="1495739758892" redirect="false"/>
+    <file name="about-us.html" crc="277824267" seo="true" mt="1495739758893" redirect="false"/>
+    <file name="contact-us.html" crc="3760111961" seo="true" mt="1495739758893" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4032764628" seo="true" mt="1495741691411" redirect="true"/>
+  <file name="gallery.html" crc="203488821" seo="true" mt="1495741691411" redirect="true"/>
+  <file name="services.html" crc="4189425500" seo="true" mt="1495741691411" redirect="true"/>
+  <file name="about-us.html" crc="3946716484" seo="true" mt="1495741691411" redirect="true"/>
+  <file name="contact-us.html" crc="4173729958" seo="true" mt="1495741691411" redirect="true"/>
+</manifest>

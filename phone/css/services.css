@@ -1,0 +1,31 @@
+.version.services /* version checker */
+{
+	color: #0000EE;
+	background-color: #3D26B7;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 0px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-top: 71px;
+	padding-bottom: 499px;
+	width: 100%;
+	max-width: 380px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
